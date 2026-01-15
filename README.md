@@ -64,6 +64,6 @@ Overall, this dashboard and database serve as valuable tools for effectively mon
 
 This project is currently maintained by Unknown Developer, a Software Developer with experience in Python and SQL.
 
-*   GitHub: [GitHub]
-*   LinkedIn: [LinkedIn]
-*   Email: [Email]
+*   GitHub: https://github.com/RiaLal
+*   LinkedIn: linkedin.com/in/ria-kurisinkal
+*   Email: riajoyal20@gmail.com 
