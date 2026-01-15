@@ -47,10 +47,10 @@ Please note that for privacy reasons, all the information here and in the databa
 
 ## SQL Analysis and Database Views Creation
 
-Once I had set up the spend_save database, my next goal was to generate queries that could provide me with insights into my spending and saving patterns. I wanted to examine monthly expenses, categorical spending amounts, and observe fluctuations in my account balances/spending. Since I wanted to access this information frequently, I decided to create database views for convenient and quick access. To see the SQL code of how these views were created and sample outputs, see the [Database Views Overview](database_views/views_overview.ipynb).
+Once I had set up the spend_save database, my next goal was to generate queries that could provide me with insights into my spending and saving patterns. I wanted to examine monthly expenses, categorical spending amounts, and observe fluctuations in my account balances/spending. Since I wanted to access this information frequently, I decided to create database views for convenient and quick access. 
 
 ## Power BI Dashboard
-In addition to the database views, I wanted a visual representation of my spending habits. I chose to create a Power BI dashboard for this purpose. I imported all the tables from the spend_save database, along with one view created in the previous step. To view the data model for the dashboard, see the [Dashboard Data Model](dashboard/dashboard_model.md). The annotated picture below provides an overview of the dashboard with descriptions for each visual:
+In addition to the database views, I wanted a visual representation of my spending habits. I chose to create a Power BI dashboard for this purpose. I imported all the tables from the spend_save database, along with one view created in the previous step. The annotated picture below provides an overview of the dashboard with descriptions for each visual:
 
 ![dashboard_picture_annotated](dashboard/dashboard_picture_annotated.png)
 Please note that the data displayed in this dashboard has been afalsified. However, the proportions spent in each category remain fairly accurate.
