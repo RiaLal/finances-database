@@ -62,7 +62,7 @@ Overall, this dashboard and database serve as valuable tools for effectively mon
 ---
 ## Maintainer
 
-This project is currently maintained by Unknown Developer, a Software Developer with experience in Python and SQL.
+This project is currently maintained by Ria Lal Kurisinkal, a Data Engineer with experience in Python and SQL.
 
 *   GitHub: https://github.com/RiaLal
 *   LinkedIn: linkedin.com/in/ria-kurisinkal
